@@ -1607,7 +1607,7 @@ header .bg-dark .navbar-nav .nav-link {
 }
 
 header .bg-dark .navbar-nav .nav-link:hover {
-	color: #007bff;
+	color: #016e30;
 }
 
 header .bg-dark .navbar-nav .active .nav-link {
@@ -1643,7 +1643,7 @@ header + header {
 	font-family: Meiryo UI;
 	letter-spacing: 3.5px;
 	text-shadow: 
-		2px  2px 9px ##016e30,
+		2px  2px 9px #016e30,
 		-2px  2px 9px #016e30,
 		2px -2px 9px #016e30,
 		-2px -2px 9px #016e30,
@@ -5086,7 +5086,7 @@ a .bg-light:focus, a .bg-light:hover, button .bg-light:focus, button .bg-light:h
 }
 
 .bg-dark {
-	background-color: #343a40 !important;
+	background-color: #0c016e !important;
 }
 
 a .bg-dark:focus, a .bg-dark:hover, button .bg-dark:focus, button .bg-dark:hover {
